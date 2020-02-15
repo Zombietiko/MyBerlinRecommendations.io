@@ -36,27 +36,24 @@ icons = {
     locations = [{
         position: new google.maps.LatLng(52.522964, 13.412997),
         type: 'dining',
-        content: '<h5>Spagos Restaurant - Bar & Lounge</h5>', 
-       image: '<p><img src="assets/images/spagnos.jpg"></p>'
+        content: `<h5>Spagos Restaurant - Bar & Lounge</h5>'` + `<h6><a href="" target="_blank">Bookings</a></h6>`
+       
 }, {
         position: new google.maps.LatLng(52.514722, 13.390504),
         type: 'dining',
-        content: '<h5>Ritter Sport Bunte Schokowelt Berlin</h5>',
-        image: '<p><img src="assets/images/SAM_6244.JPG.png"></p>'
-
+        content: `<h5>Ritter Sport Bunte Schokowelt Berlin</h5>'` + `<h6><a href="" target="_blank">Bookings</a></h6>`    
     }, {
         position: new google.maps.LatLng(52.511595, 13.378755),
         type: 'dining',
-        content: '<h5> Charlotte & Fritz</h5>',
-        image: '<p><img src= "assets/images/Char&Fritzlogo.png"></p>'
+        content: `<h5> Charlotte & Fritz</h5>'` + `<h6><a href="" target="_blank">Bookings</a></h6>`
      
     }
 , {
         position: new google.maps.LatLng(52.501634, 13.38211),
         type: 'accommodation',
-        content: `<h5>Crowne Plaza Berlin </h5>` + `<h6><a href="https://www.crowneplaza.com/hotels/gb/en/berlin/bercp/hoteldetail?fromRedirect=true&qSrt=sBR&qIta=99603195&icdv=99603195&glat=SEAR&qSlH=BERCP&setPMCookies=true&qSHBrC=CP&qDest=Hallesche%20Str%2010,%20Berlin,%20DE&dp=true&gclid=Cj0KCQiAyp7yBRCwARIsABfQsnQVTQ_9UzeNnqacWAe0dmx4j9zJY3iN8VU_Sypr7GPJEw6JdPBhnQYaAuNSEALw_wcB&cid=41512&srb_u=1" target="_blank">What's the hotel like?</a></h6>`
-          
+        content: `<h5>Crowne Plaza Berlin</h5>` + `<h6><a href="https://uk.hotels.com/ho401714/?q-check-out=2020-02-22&FPQ=3&q-check-in=2020-02-21&WOE=6&WOD=5&q-room-0-children=0&pa=1&tab=description&JHR=2&q-room-0-adults=2&YGF=3&MGT=1&ZSX=0&SYE=3" target="_blank">What's the hotel like?</a></h6>`
 }
+
 ];
 
      // Create markers.
