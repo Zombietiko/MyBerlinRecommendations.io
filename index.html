@@ -107,6 +107,92 @@
 
    <!-----------------------------------End of User Choice Selection------------------->
 
+
+<!-----------------------------------Start of MAP------------------------------------->
+  <div class="row">
+<div class="col-md-12">
+<h3 class="section-heading&nbspuppercase">Map</h3>
+</div>
+</div>
+       <div class="row">
+                            <div class="col-md-12">
+                                <select class="input-boxes" id="city" disabled>
+                                    <option value="select-city">Select city</option>
+                                    <option value="Berlin" selected>Berlin</option>
+                                </select>
+                            </div>
+                        </div>
+                        <br><br><br>
+                        <div class="row">
+                            <div class="col-md-12 find-header">
+                                Type:
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 radio-form">
+                                <input type="radio" name="gender"
+                                    value="accommodation" id="accommodationRadio">
+                                <span
+                                    class="radio-buttons">Accommodation</span><br>
+                                <input type="radio" name="gender"
+                                    value="Restaurants" id="foodRadio">
+                                <span
+                                    class="radio-buttons">My Top Restaurants</span><br>
+                                <input type="radio" name="gender"
+                                    value="Attractions" id="attractions">
+                                <span
+                                    class="radio-buttons">Attractions</span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <button id="reset-button" type="button"
+                                    class="btn
+                                    btn-primary" onclick="reset()">Reset</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-8 col-md-8">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h3 class="section-heading uppercase">Map</h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div id="map"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+<!-----------------------------------End of MAP------------------------------------->
+
+
+ <!-----------------------------------Accommodation---------------------------->
+  <div id="Accommodation" class="jumbotron">
+    <h2 class="display-3">Accommodation</h2>
+    <hr class="col-12">
+    <div class="row">
+      <div class="col-lg-3">
+        <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+          <div class="card-header"></div>
+          <div class="card-body">
+            <h4 class="card-title">Crowne Plaza Berlin - Potsdamer Platz</h4>
+            <img style="height: auto; width: 100%; display: block;" src="assets/images/Hotel1.JPG"alt="Hotel">
+            </a>
+            <div class="card-body text-white">
+              <p class="card-text"></p>
+            </div>
+            <div class="card-body text-white">
+            <p class="card-text"> Hotels.com always seem to have great offers on central hotels for city breaks.
+            This is a great hotel affordable and located in the city centre of Berlin.
+              <a href="https://uk.hotels.com/ho401714/?q-check-out=2020-02-22&FPQ=3&q-check-in=2020-02-21&WOE=6&WOD=5&q-room-0-children=0&pa=1&tab=description&JHR=2&q-room-0-adults=2&YGF=3&MGT=1&ZSX=0&SYE=3" class=" text-white alert-link" target="_blank">Make a booking </a>
+            </div>
+          </div>
+        </div>
+      </div>
 <script src="assets/js/map.js"></script>
   <script src="https://code.jquery.com/jquery-3.4.1.slim.js"></script>
   <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" 
