@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Play&display=swap');
+
+.container-fluid {
+    width: 100%;
+}
+
+.body {
+    overflow-x: hidden;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #fff;
+    position: relative;
+}
+
+.heading {
+    font-family: 'Playfair Display';
+    font-weight: 700;
+}
+
+.center-form .intro {
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+}
+
+/*---------------- Navigation -----------------*/
+
+.navbar {
+    text-transform: uppercase;
+    font-weight: 700;
+    opacity: 1;
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    padding-top: 1.5px;
+    padding-bottom: 1.5px;
+    background: transparent;
+    -webkit-box-shadow: 2px 1px;
+    box-shadow: 2px 1px;
+}
+
+.navbar-nav li {
+    padding-right: .4rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #464333;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .nabar-nav .nav-link:hover {
+    color: #000080;
+}
+
+/*----------- Landing Page------------------*/
+
+.callout-container {
+    background: url('../images/germany-brandenburg-gate.jpg')no-repeat bottom right fixed;
+    background-size: cover;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    position: relative;
+    height: 100vh;
+}
+}
+
+.jumbotron {
+    background-color: transparent;
+    text-transform: uppercase;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: .3rem;
+    margin-top: 5rem;
+    text-shadow: 2px 1px black;
+}
+
+.jumbotron-header {
+    color: #0a0a0a;
+    font-weight: 700;
+}
+
+.slogan {
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
