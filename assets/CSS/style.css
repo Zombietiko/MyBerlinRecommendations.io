@@ -67,11 +67,10 @@
     position: relative;
     height: 100vh;
 }
-}
+
 
 .jumbotron {
-    background-color: transparent;
-    text-transform: uppercase;
+    background-color: white;
     padding: 2rem 1rem;
     margin-bottom: 2rem;
     border-radius: .3rem;
@@ -94,3 +93,97 @@
     height: 400px;
     width: 100%;
     margin: 5px;
+
+#about {
+    padding: 100px 30px;
+    background-color: #f2f2f2
+}
+
+.intro {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.page-header {
+    text-align: center;
+    margin-top: -4rem;
+    margin-bottom: .5rem;
+}
+
+
+.about-img {
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+}
+
+.about-img {
+    background-image: url('../images/NFL-100-logo.png');
+}
+
+
+
+/*------------ Contact--------------*/
+
+#contact {
+    background-color: #f2f2f2;
+}
+
+
+.contact-us {
+    padding-bottom: 2rem;
+}
+
+.contact-heading {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.center-form {
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+.fullname,
+.e-mail,
+.project {
+    padding-bottom: 10px;
+}
+
+/*-------------- Footer --------------*/
+
+.list-inline {
+    padding-top: 10px;
+}
+
+.container-foot {
+    background-color: #072F5F;
+}
+
+.h5 {
+    text-align: center;
+}
+
+
+
+.social-links li a i {
+    width: 50px;
+    height: 50px;
+    padding: 20px 0;
+    border-radius: 50%;
+    line-height: 10px;
+    font-size: 25px;
+    text-align: center;
+    color: #072F5F;
+    background: #f2f2f2;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #59522c;
+}
