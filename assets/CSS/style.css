@@ -89,3 +89,8 @@
     font-weight: 500;
     font-size: 1.5rem;
 }
+
+#map {
+    height: 400px;
+    width: 100%;
+    margin: 5px;
