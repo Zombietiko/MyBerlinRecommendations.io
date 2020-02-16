@@ -36,16 +36,16 @@ icons = {
     locations = [{
         position: new google.maps.LatLng(52.522964, 13.412997),
         type: 'dining',
-        content: `<h5>Spagos Restaurant - Bar & Lounge</h5>'` + `<h6><a href="" target="_blank">Bookings</a></h6>`
+        content: `<h5>Spagos Restaurant - Bar & Lounge</h5>'` + `<h6><a href="https://www.parkinn-berlin.de/en/restaurant-bar-spagos/" target="_blank">Bookings</a></h6>`
        
 }, {
-        position: new google.maps.LatLng(52.514722, 13.390504),
+        position: new google.maps.LatLng(52.526198, 13.451278),
         type: 'dining',
-        content: `<h5>Ritter Sport Bunte Schokowelt Berlin</h5>'` + `<h6><a href="" target="_blank">Bookings</a></h6>`    
+        content: `<h5>Block-House</h5>'` + `<h6><a href="https://www.block-house.de/restaurant/am-adenauerplatz/" target="_blank">Bookings</a></h6>`    
     }, {
         position: new google.maps.LatLng(52.511595, 13.378755),
         type: 'dining',
-        content: `<h5> Charlotte & Fritz</h5>'` + `<h6><a href="" target="_blank">Bookings</a></h6>`
+        content: `<h5> Charlotte & Fritz</h5>'` + `<h6><a href="https://charlotteundfritz.com/" target="_blank">Bookings</a></h6>`
      
     }
 , {
@@ -64,8 +64,25 @@ icons = {
         position: new google.maps.LatLng(52.519579, 13.4005416),
         type: 'accommodation',
         content: `<h5>Radisson Blu Hotel, Berlin</h5>` + `<h6><a href="https://uk.hotels.com/ho113355/?q-check-out=2020-02-22&FPQ=3&q-check-in=2020-02-21&WOE=6&WOD=5&q-room-0-children=0&pa=1&tab=description&JHR=2&q-room-0-adults=2&YGF=3&MGT=1&ZSX=0&SYE=3#:WO" target="_blank">What's the hotel like?</a></h6>`
-}
+},
 
+{
+position: new google.maps.LatLng(52.507898,13.389356 ),
+        type: 'attractions',
+        content: `<h5>THE WALL</h5>` + `<h6><a href="https://www.die-mauer.de/" target="_blank">What's the attraction like?</a></h6>`
+},
+
+{
+position: new google.maps.LatLng(52.515252,13.390752),
+        type: 'attractions',
+        content: `<h5>German Historical Museum </h5>` + `<h6><a href="https://www.dhm.de/" target="_blank">What's the attraction like?</a></h6>`
+},
+
+{
+position: new google.maps.LatLng(52.520833,13.409444 ),
+        type: 'attractions',
+        content: `<h5>Berlin Tv Tower, Berlin</h5>` + `<h6><a href="https://tv-turm.de/en/" target="_blank">What's the attraction like?</a></h6>`
+}
 
 ];
 
