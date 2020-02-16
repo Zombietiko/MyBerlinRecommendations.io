@@ -52,7 +52,20 @@ icons = {
         position: new google.maps.LatLng(52.501634, 13.38211),
         type: 'accommodation',
         content: `<h5>Crowne Plaza Berlin</h5>` + `<h6><a href="https://uk.hotels.com/ho401714/?q-check-out=2020-02-22&FPQ=3&q-check-in=2020-02-21&WOE=6&WOD=5&q-room-0-children=0&pa=1&tab=description&JHR=2&q-room-0-adults=2&YGF=3&MGT=1&ZSX=0&SYE=3" target="_blank">What's the hotel like?</a></h6>`
+},
+
+{
+        position: new google.maps.LatLng(52.515293, 13.390649),
+        type: 'accommodation',
+        content: `<h5>The Regent Berlin</h5>` + `<h6> <a href="https://uk.hotels.com/ho127264/?q-check-out=2020-02-22&FPQ=5&q-check-in=2020-02-21&WOE=6&WOD=5&q-room-0-children=0&pa=1&tab=description&JHR=4&q-room-0-adults=2&YGF=3&MGT=1&ZSX=0&SYE=3" target="_blank">What's the hotel like?</a></h6>`
+},
+
+{
+        position: new google.maps.LatLng(52.519579, 13.4005416),
+        type: 'accommodation',
+        content: `<h5>Radisson Blu Hotel, Berlin</h5>` + `<h6><a href="https://uk.hotels.com/ho113355/?q-check-out=2020-02-22&FPQ=3&q-check-in=2020-02-21&WOE=6&WOD=5&q-room-0-children=0&pa=1&tab=description&JHR=2&q-room-0-adults=2&YGF=3&MGT=1&ZSX=0&SYE=3#:WO" target="_blank">What's the hotel like?</a></h6>`
 }
+
 
 ];
 
