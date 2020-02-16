@@ -56,91 +56,15 @@
     font-weight: 500;
     font-size: 1.5rem;
 }
-
+/*-------------- Map --------------*/
 #map {
     height: 400px;
     width: 200%;
     margin: 5px;
 }
 
- .navbar {
-        padding-top: 4px;
-        padding-bottom: 5px;
-    }
-/*-------------- Contact Form --------------*/
-
-#contact {
-    background-color: #f2f2f2;
-}
-
-
-.contact-us {
-    padding-bottom: 2rem;
-}
-
-.contact-heading {
-    padding-top: 1rem;
-    padding-bottom: 2rem;
-}
-
-.center-form {
-    max-width: 70%;
-    margin: 0 auto;
-}
-
-.fullname,
-.e-mail,
-.project {
-    padding-bottom: 10px;
-}
-
 /*-------------- Footer --------------*/
-
-.list-inline {
-    padding-top: 10px;
-}
-
-.container-foot {
-    background-color: #072F5F;
-}
-
-.h5 {
-    text-align: center;
-}
-
-
-.social-links li a i {
-    width: 50px;
-    height: 50px;
-    padding: 20px 0;
-    border-radius: 50%;
-    line-height: 10px;
-    font-size: 25px;
-    text-align: center;
-    color: #072F5F;
-    background: #f2f2f2;
-    transition: all 0.5s ease-in-out;
-    -moz-transition: all 0.5s ease-in-out;
-    -webkit-transition: all 0.5s ease-in-out;
-    -o-transition: all 0.5s ease-in-out;
-}
-
-.social-links li a i:hover {
-    background: #59522c;
-}
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-  
+#footer {
+    background-color: whitesmoke;
+    color: black;
+};
