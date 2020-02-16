@@ -55,7 +55,7 @@ icons = {
 },
 
 {
-        position: new google.maps.LatLng(52.515293, 13.390649),
+        position: new google.maps.LatLng(52.515293, 13.39064),
         type: 'accommodation',
         content: `<h5>The Regent Berlin</h5>` + `<h6> <a href="https://uk.hotels.com/ho127264/?q-check-out=2020-02-22&FPQ=5&q-check-in=2020-02-21&WOE=6&WOD=5&q-room-0-children=0&pa=1&tab=description&JHR=4&q-room-0-adults=2&YGF=3&MGT=1&ZSX=0&SYE=3" target="_blank">What's the hotel like?</a></h6>`
 },
