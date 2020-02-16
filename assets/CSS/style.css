@@ -45,17 +45,6 @@
     position: relative;
     height: 100vh;
 }
-}
-
-.jumbotron {
-    background-color: transparent;
-    text-transform: uppercase;
-    padding: 2rem 1rem;
-    margin-bottom: 2rem;
-    border-radius: .3rem;
-    margin-top: 5rem;
-    text-shadow: 2px 1px black;
-}
 
 .jumbotron-header {
     color: #0a0a0a;
@@ -78,6 +67,7 @@
         padding-top: 4px;
         padding-bottom: 5px;
     }
+
 
  
 
