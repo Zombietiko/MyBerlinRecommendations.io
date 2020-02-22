@@ -95,14 +95,15 @@ icons = {
     };
 
 
-    //var accommodationClick = selectPlaces("accommodation");
+        //var accommodationClick = selectPlaces("accommodation");
     $('#accommodationRadio').click(selectPlaces);
     $('#foodRadio').click(selectPlaces);
     $('#attractions').click(selectPlaces);
 
-    } // end  addMarker() function
 
-    function selectPlaces() {
+} // end  addMarker() function
+
+function selectPlaces() {
     var type;
     if ($("#accommodationRadio").is(':checked')) {
         type = 'accommodation';
@@ -138,6 +139,15 @@ icons = {
 
     };
 
+}
+
+function clearMarkers() {
+    for (var i = 0; i < markers.length; i++) {
+        if (markers[i]) {
+            markers[i].setMap(null);
+        }
+    }
+    markers = [];
 }
 
 function reset() {
