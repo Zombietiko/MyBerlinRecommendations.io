@@ -73,7 +73,7 @@ For the solving some challenges during my work I used next sites: [Google Maps P
 # Content
 * All discriptions have been taken from google or there specific websites.
 
-# Accomadation links (I used links to Hotels.com as they have some great deals):
+# Accomadation links:
 
 * Crowne Plaza Berlin -https://uk.hotels.com/ho401714/?q-check-out=2020-02-22&FPQ=3&q-check-in=2020-02-21&WOE=6&WOD=5&q-room-0-children=0&pa=1&tab=description&JHR=2&q-room-0-adults=2&YGF=3&MGT=1&ZSX=0&SYE=3https://uk.hotels.com/ho401714/?q-check-out=2020-02-22&FPQ=3&q-check-in=2020-02-21&WOE=6&WOD=5&q-room-0-children=0&pa=1&tab=description&JHR=2&q-room-0-adults=2&YGF=3&MGT=1&ZSX=0&SYE=3
 * The Regent Berlin - https://uk.hotels.com/ho127264/?q-check-out=2020-02-22&FPQ=5&q-check-in=2020-02-21&WOE=6&WOD=5&q-room-0-children=0&pa=1&tab=description&JHR=4&q-room-0-adults=2&YGF=3&MGT=1&ZSX=0&SYE=3
