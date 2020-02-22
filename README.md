@@ -11,9 +11,9 @@ to showcase my top selections in Berlin.
 
 The site shows the following:
 
-My  Top tourist attractions
-My Top accommodations
-My Top restaurants.
+Attractions
+Accommodations
+Restaurants
 
 I provide search results in a manner that is visually appealing for website users. 
 
