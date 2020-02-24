@@ -41,7 +41,7 @@ A live demo can be found [here](https://zombietiko.github.io/MyBerlinRecommendat
 * Buttons that will remove other marks and zoom in or out as necessary to show the cluster.
 * Attractions and accommodation cards with information on each place link to there website by link towards the bottom of the card. 
 * A colorful list of bars and restaurants.
-* The footer contains links on the weather, transport and tourist information 
+* The footer contains links on a facebook page of Berlin / Youtube - Video on visiting Berlin / Instagram - Page dedicated to pictures of Berlin
 
 ## Technologies
 1. HTML
