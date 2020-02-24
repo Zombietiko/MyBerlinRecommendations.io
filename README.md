@@ -63,8 +63,7 @@ A live demo can be found [here](https://zombietiko.github.io/MyBerlinRecommendat
 * I set about getting the lat and long for each place and placing markers on the map. 
 * Adding buttons that would link to the markers ensure a reset button. 
 * Correcting the zoom and setting the zoom center for seeing all the cluster locations.
-* Adding the search button was the last step. Random address that was not in the top fives or in the country were searched.  
-
+* Adding the search button was the last step.
 ### Acknowledgements
 For the solving some challenges during my work I used next sites: [Google Maps Platform](https://developers.google.com/maps/documentation/javascript/tutorial) 
 
